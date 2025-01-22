@@ -1,6 +1,6 @@
 # RTAI 2024 Course Project
 
-
+Certifing NNs, joint work with @h-buechi, @mashaprostotak.
 
 ## Folder structure
 In the directory `code`, you can find 4 files and one folder: 
