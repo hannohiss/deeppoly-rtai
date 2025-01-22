@@ -1,5 +1,7 @@
 # RTAI 2024 Course Project
 
+
+
 ## Folder structure
 In the directory `code`, you can find 4 files and one folder: 
 - The file `networks.py` contains the fully-connected and convolutional neural network architectures used in this project.
@@ -71,6 +73,3 @@ You can run this script from the root directory using the following commands:
 chmod +x code/evaluate.sh
 ./code/evaluate.sh
 ```
-
-## Submission 
-Note that on the dates specified in the presentation, we will pull the master branch both for preliminary feedback and final grading (and push the results to a new branch). Please have your solution on this (master) branch at that point in time.
