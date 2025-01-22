@@ -1,0 +1,6 @@
+--extra-index-url https://download.pytorch.org/whl/cpu
+numpy==1.26.0
+pytorch==2.1.2
+torchvision==0.16.2
+scipy==1.11.1
+matplotlib

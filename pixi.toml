@@ -1,0 +1,18 @@
+[project]
+name = "rtai-project-4"
+version = "0.1.0"
+description = "Pixi for the win"
+authors = ["Hanno Hiss <hanno.hiss@quantco.com>"]
+channels = ["pytorch", "conda-forge"]
+platforms = ["osx-arm64"]
+
+[tasks]
+tests = """python code/tests.py"""
+
+[dependencies]
+python = "3.10"
+numpy = "1.26.0"
+pytorch = "==2.1.2"
+torchvision = "==0.16.2"
+scipy = "1.11.1"
+cpuonly = "*"
