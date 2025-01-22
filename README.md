@@ -1,6 +1,6 @@
 # RTAI 2024 Course Project
 
-Certifing NNs, joint work with @h-buechi, @mashaprostotak.
+Certifying NNs, joint work with [@h-buechi](https://github.com/h-buechi), [@mashaprostotak](https://github.com/mashaprostotak).
 
 ## Folder structure
 In the directory `code`, you can find 4 files and one folder: 
