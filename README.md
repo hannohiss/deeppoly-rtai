@@ -23,7 +23,7 @@ $ conda activate rtai-project
 
 for `mamba` simply replace `conda` with `mamba`.
 
-If you prefer a nice package manager (pixi) simply do the following:
+If you prefer the nice package manager `pixi` simply do the following:
 
 ```bash
 $ pixi install
